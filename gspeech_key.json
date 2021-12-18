@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crypto-compass-335500",
+  "private_key_id": "8bee901fc3da6db5dfdad03436ab3575726b4975",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKcI3Kt8f08Gr7\nzAZdLGWIKJgA3Zo0CQDT6aU4ZHJgudFB/eRSR8KY8VVgrdd0IFnJ3+f1/7UC4WEX\n4KwBpWO5xt1wyVp9zozjoY/WCXnnVZI4mmj1+npszQgW8ylzSkaUPgNZ5d2rlwGW\nj9ZRsl2sfg46F05wAQhlh/HUAW2Lh9Y2G9y4UceeBtsCuie6/v+vgSeHLWDHTsC3\n+J3dEk1bQPIME2yPulu0iNRbTRvgUnLo1SPjYiwjhJxl6afnoGDrex8wI/KJz26w\nZLX6cHibl7paHRFSFfd/6Y1HW0rWLZYzWfQqO+FMisbjDlJCuAAb5AyM4nHi4Pee\ngntmNMxDAgMBAAECggEAFZbO9aVc1z6D15+TYYC4a+lnBddG4zFp8QTpVawXVevA\nfnOs/lNgfulkgV94wI3Uqtv3Q7uwmlfegBU58suoaNRlouoY/Z1iAW1Q8XK9mTyo\neo3eZLaA3jU4HXkdh185S1pDsY97RkSKlaZ4T5Ugj/fk3NrFxtnCrfqYq9M301ne\nhoM7VJNdzy8/HgW6KbgwPaMloUA+dpiAQGhMhJKiTqCengpdxsp0jlky+vH3xR3H\nOCkPa7iXyYisa7JC2B4RfAgeTnVqUJfRsGDLg7wcWJqx0eLZYKqCnW46b2GOtPqT\ns56xwHEinyUKzpbuZrVF64GPjYwVQxYOv2xNxDIqwQKBgQD9EjlSKRn86J+/Fku2\ndsklAmeh/ygcGamkZFSaZHtflTcnzldNCg09tFlEDt77wDITxhkgyX63UgfBxor3\nxinQ6wvxMX3KY+7ECh+JuB71JkYOs6oQhdUwcQKfqQsWkYGXAo74MeYNgwehfuqR\nx4FpR9KejX3NT+638A5TieJrwQKBgQDMyFLTCpSQFuxO8Vn0VgRe/toF6Rb2ydNU\nJr0mN69h6WlWcp0/CO/SlaMxVCqt3Gro5XICFWOLZqg6vU6D5P5KVNPrRIcBvjoz\nJi6pqRFhfXLwDmyVYqb1sB7PLrtsdFbMoWdcSOi3Ri0aLyqrOD0LEdeUWwNtN3Sz\nI9z/KrPJAwKBgCmMvGyI4wNrDg9JkdS7W/r/khQ+2E8Ex519+4X9yWPAE/YtIpg7\ndkETQzSxXFrpC0/DzoxbiLqAdVWTS22y01rBvIw1G/oGvkThhJwP5sVJK2duiBV+\nY6o4Y73i+zcRXL12ZhLJ3oOJZ89UDx8wKkcmy6XMhUMYRJFekHuWv94BAoGAaVri\nqar21c7FUrP++KLMauco2gOaies560Bm7eOWOoRwakZbOhPp9mh/5iAMORh+dEWf\nSw0gApcVE+tTGq5UWX+c65x87Numa6xIM4dE5ug4muKA4LY5eYtbvnGngVu1UF/1\nolfsSmYzTBZaGG69kRVj2PKeJ7FxO7zGtQyOJGsCgYEA5981DCa9jwXsIjWkESgf\nxsOPUG4JbicCGMsNTxIU7mSQUgJ+Kq6aqRmVCGLwyPFVwavuMTQ+5daF7Kr+2URS\nxzaDimbjbFzcrIdWddevm0uBnACRrqRKfZ7JoijqNEAoTue4iE1tpM1UluE9BpM9\nnk5A72JzcK2Zkv1Yus1kTIE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-584@crypto-compass-335500.iam.gserviceaccount.com",
+  "client_id": "117917905000022828525",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-584%40crypto-compass-335500.iam.gserviceaccount.com"
+}
